@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_jpn"
+        android:title="@string/action_language_jpn"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_idn"
+        android:title="@string/action_language_idn"
+        android:orderInCategory="101"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_eng"
+        android:title="@string/action_language_eng"
+        android:orderInCategory="102"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_set"
+        android:title="@string/action_language_set"
+        android:orderInCategory="103"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_opset"
+        android:title="@string/action_opset"
+        android:orderInCategory="104"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_help"
+        android:title="@string/action_help"
+        android:orderInCategory="105"
+        app:showAsAction="never"/>
+</menu>

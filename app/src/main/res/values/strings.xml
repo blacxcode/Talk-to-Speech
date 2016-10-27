@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Talk to Speech</string>
+
+    <string name="action_language_jpn">日本語</string>
+    <string name="action_language_idn">Bahasa Indonesia</string>
+    <string name="action_language_eng">English</string>
+    <string name="action_language_set">Cek &amp; Pasang Bahasa</string>
+    <string name="action_opset">Buka Setting Android</string>
+    <string name="action_help">Bantuan</string>
+
+    <string name="header_info">Petunjuk &amp; Bantuan</string>
+    <string name="content_info">
+        \n1. Pilih dahulu bahasa yang akan digunakan pada menu (default bahasa jepang).\n
+        \n2. Jika suara tidak tesedia, silahkan klik pada opsi menu (Cek &amp; Pasang Bahasa).\n
+        \n3. Jika download tidak berhasil, silahkan download secara manual di android setting.\n
+        \n4. Untuk download manual silahkan ikuti petujuk ini :
+        Settings->Language &amp; Input->Text-to-Speech Output->Google Text-to-Speech->
+        Install voice data->pilih bahasa yang akan di download.\n
+    </string>
+</resources>
